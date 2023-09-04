@@ -1,3 +1,5 @@
-# My background
-My name is Eric Giunchi and I am a PhD student at INAF-Osservatorio Astronomico di Padova, in Padua, Italy. My work is currently focused on the reduction and analysis of a set of images taken with the HST/WFC3. The targets are six galaxies undergoing strong ram-pressure stripping inside galaxy clusters, showing long tails of young stellar clumps, of which we have studied the star-forming and morphological properties.
-My scientific interests include star formation in peculiar environment, unresolved stellar population properties, morphological and photometric evolution of stellar clumps and clusters.
+# About me
+
+At the moment, my scientific work is mainly oriented on the study of the star-formation mechanism, focusing on very young stellar clumps observed in different environments. In order to do that, during my PhD program, I studied a set of HST/WFC3 images of six galaxies undergoing strong ram-pressure stripping inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties.
+
+Besides the study of the star-formation process and driving mechanisms, my interests include the evolution of groups and clusers of stars, either as a consequence of stellar evolution and dynamical interactions.
