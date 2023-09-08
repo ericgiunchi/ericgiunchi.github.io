@@ -1,6 +1,6 @@
 title: Welcome to my website!
 description: Eric Giunchi (eric.giunchi@inaf.it), PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, Padua, Italy.
-logo: ./assets/img/myself.jpeg
+logo: assets/img/myself.jpeg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
