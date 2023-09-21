@@ -1,4 +1,4 @@
-# I am Eric!
+# I am Eric, nice to meet you!
 
 [My curriculum vitae](assets/doc/Eric_Giunchi_cv.pdf)\
 First author publication [list](https://ui.adsabs.harvard.edu/user/libraries/Uz6wbuCZToGRY0qz7KLOJQ)\
