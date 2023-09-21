@@ -6,6 +6,7 @@
 First author publication [list](https://ui.adsabs.harvard.edu/user/libraries/Uz6wbuCZToGRY0qz7KLOJQ)\
 Co-author publication [list](https://ui.adsabs.harvard.edu/user/libraries/ao3CZvuTRGOcxitKb5eikg)\
 My ORCID: [0000-0002-3818-1746](https://orcid.org/0000-0002-3818-1746)
+My [Master thesis](https://amslaurea.unibo.it/21272/)
 
 # About me
 Hello there, I am Eric Giunchi, a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy.
