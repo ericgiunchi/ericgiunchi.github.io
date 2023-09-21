@@ -25,7 +25,7 @@ For my Master thesis I developed a good background about **globular clusters for
 # Something about my research
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
 
-<img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp" width="500"/>
+<img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp" width="700"/>
 _Credits to Dr. Marco Gullieuszik_
 
 In our works we study the global properties of the star-forming clumps observed in these peculiar objects, comparing clumps observed in the disk and the tails of these galaxies with each other and with clumps observed in main-sequence, isolated galaxies. The comparison has been carried on by looking at their distribution functions (mass, luminosity and size), the luminosity-size relation and the morphology. Our results suggest that ram pressure does not influence the turbulent cascade that drives gas collapse and star formation, but can locally enhance the star-formation rate surface density of the clumps.
