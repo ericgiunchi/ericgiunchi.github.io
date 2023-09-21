@@ -8,8 +8,9 @@ My ORCID: [0000-0002-3818-1746](https://orcid.org/0000-0002-3818-1746)
 Hello there, I am Eric Giunchi, a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy.\
 # SCIENTIFIC SKILLS and BACKGROUND
 My scientific work is mainly oriented to the study of **star formation**, focusing on very young stellar clumps observed in different environments. I developed a good knowledge about state-of-art observations and models regarding the properties and driving mechanisms of the **star-forming process** and **clump formation**, including turbulence, stellar feedback, dynamical and stellar evolution.
-Expertise about the tracers and proxies of the properties of star-forming clumps, including **mass, luminosity** and size **distribution functions**; **luminosity, mass** and **SFR-size relations**; **morphological evolution**.
+Theferore I developed expertise about the tracers and proxies of the properties of star-forming clumps, including **mass, luminosity** and size **distribution functions**; **luminosity, mass** and **SFR-size relations**; **morphological evolution**.
 Strong focus on the variation of the properties of star-forming clumps across cosmic time and different environments (main-sequence galaxies, starburst galaxies, mergings, galaxies in clusters, intergalactic environments like spiral arms and inter-arm regions). In particular I studied the properties of stellar clumps formed from gas stripped from cluster galaxies undergoing strong **ram-pressure stripping**, surrounded by the hot, high-pressure intracluster medium.
+
 For my Master thesis I developed a good background about **globular clusters formation** and **evolution**, both from the stellar and dynamical point of view (mass segregation, equipartition, influence of binaries and Intermediate Mass Black Holes, three-body interactions). In addition to that, I developed a good background about distribution functions for dynamical systems, including in particular **action-based distribution functions**, their properties and advantages.
 
 
