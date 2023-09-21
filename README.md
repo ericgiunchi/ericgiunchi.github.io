@@ -12,6 +12,7 @@ Expertise about the tracers and proxies of the properties of star-forming clumps
 Strong focus on the variation of the properties of star-forming clumps across cosmic time and different environments (main-sequence galaxies, starburst galaxies, mergings, galaxies in clusters, intergalactic environments like spiral arms and inter-arm regions). In particular I studied the properties of stellar clumps formed from gas stripped from cluster galaxies undergoing strong **ram-pressure stripping**, surrounded by the hot, high-pressure intracluster medium.
 For my Master thesis I developed a good background about **globular clusters formation** and **evolution**, both from the stellar and dynamical point of view (mass segregation, equipartition, influence of binaries and Intermediate Mass Black Holes, three-body interactions). In addition to that, I developed a good background about distribution functions for dynamical systems, including in particular **action-based distribution functions**, their properties and advantages.
 
+
 # SCIENTIFIC INTERESTS
 1. Formation and evolution of **stellar clumps**, whether they are star-forming or **globular clusters**;
 2. **processes driving clump formation**, especially when involving gas dynamics like turbulent cascade and stellar feedback;
@@ -19,17 +20,9 @@ For my Master thesis I developed a good background about **globular clusters for
 4. **galaxy evolution**, in particular from the dynamical point of view;
 5. morphological evolution of galaxies, **clump survivability** and disruption timescales, dynamical and orbital **evolution of single stars**.
 
+
 # Something about my research
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
-
-<div class="image-section" style="display: flex; justify-content: center;">
-  <figure>
-    <img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp">
-    <figcaption>
-      <br>Credits to Dr. Marco Gullieuszik.
-    </figcaption>
-  </figure>
-</div>
 
 <img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp" width="500"/>
 _Credits to Dr. Marco Gullieuszik_
@@ -39,6 +32,7 @@ In our works we study the global properties of the star-forming clumps observed 
 My work as a PhD student has been carried on under the supervision of Dr. Bianca Maria Poggianti, Dr. Marco Gullieuszik and Dr. Alessia Moretti as a part of **GASP** (_GAs Stripping Phenomena in galaxies with MUSE_, [Poggianti et al. 2017](https://iopscience.iop.org/article/10.3847/1538-4357/aa78ed)), an ESO Large Program that observed 114 galaxies with the MUSE Integral Field spectrograph on the VLT with the goal of clarifying how, where and when gas is removed from galaxies. The sample includes several galaxies that are undergoing ram-pressure stripping, some of which are textbook examples of **jellyfish** galaxies, while others have less prominent features. Further observations covered a wide range in wavelength, in order to characterize all the gas and stellar phases of these galaxies. That includes radio (ALMA, APEX, VLA, LOFAR, Meerkat), UV (UVIT), X-ray (Chandra, Astrosat) and high-resolution UV-optical data (HST). At the moment, the GASP collaboration counts more than [50 publications](https://web.oapd.inaf.it/gasp/publications.html).
 
 During my _Mater thesis_, I worked with Prof. Carlo Nipoti, Dr. Raffaele Pascale, Alessandro Della Croce and collaborators on the possible presence of **Intermediate Mass Black Holes** in the center of **globular clusters**. In order to do that, we used a set of action-based distribution functions to fit at the same time morphology and kinematics of single stars, having the possibility of varying the influence of the central black hole.
+
 
 # Outreach experiences
 As a part of my Bachelor degree, I worked as a guide for public visits at the Telescope of Loiano, Bologna (Italy). The guided visits included the description of the motion of stars and planets on the celestial sphere, some constellations and the basic properties of planets, stars and galaxies.
