@@ -1,11 +1,13 @@
-# About me
+# I am Eric!
 
 [My curriculum vitae](assets/doc/Eric_Giunchi_cv.pdf)\
 First author publication [list](https://ui.adsabs.harvard.edu/user/libraries/Uz6wbuCZToGRY0qz7KLOJQ)\
 Co-author publication [list](https://ui.adsabs.harvard.edu/user/libraries/ao3CZvuTRGOcxitKb5eikg)\
 My ORCID: [0000-0002-3818-1746](https://orcid.org/0000-0002-3818-1746)
 
-Hello there, I am Eric Giunchi, a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy.\
+# About me
+Hello there, I am Eric Giunchi, a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy.
+
 # SCIENTIFIC SKILLS and BACKGROUND
 My scientific work is mainly oriented to the study of **star formation**, focusing on very young stellar clumps observed in different environments. I developed a good knowledge about state-of-art observations and models regarding the properties and driving mechanisms of the **star-forming process** and **clump formation**, including turbulence, stellar feedback, dynamical and stellar evolution.
 Theferore I developed expertise about the tracers and proxies of the properties of star-forming clumps, including **mass, luminosity** and size **distribution functions**; **luminosity, mass** and **SFR-size relations**; **morphological evolution**.
@@ -26,6 +28,7 @@ For my Master thesis I developed a good background about **globular clusters for
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
 
 <img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp" width="700"/>
+
 _Credits to Dr. Marco Gullieuszik_
 
 In our works we study the global properties of the star-forming clumps observed in these peculiar objects, comparing clumps observed in the disk and the tails of these galaxies with each other and with clumps observed in main-sequence, isolated galaxies. The comparison has been carried on by looking at their distribution functions (mass, luminosity and size), the luminosity-size relation and the morphology. Our results suggest that ram pressure does not influence the turbulent cascade that drives gas collapse and star formation, but can locally enhance the star-formation rate surface density of the clumps.
