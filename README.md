@@ -40,6 +40,7 @@ During my _Mater thesis_, I worked with Prof. Carlo Nipoti, Dr. Raffaele Pascale
 
 # Outreach experiences
 As a part of my Bachelor degree, I worked as a guide for public visits at the Telescope of Loiano, Bologna (Italy). The guided visits included the description of the motion of stars and planets on the celestial sphere, some constellations and the basic properties of planets, stars and galaxies.
+
 I also attended the _Notte dei Ricercatori_ ("Night of Researchers") 2023, giving a talk to a public of adults and high school students about how JWST is improving our science at high redshift. I also participate to a sieries of speed date, describing in a few minutes the daily life of an astronomer.
 
 
