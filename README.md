@@ -1,5 +1,7 @@
 # I am Eric, nice to meet you!
 
+<meta name="keywords" content="Eric Giunchi astronomer astronomy astrophysics HST Hubble Space Telescope galaxy clump cluster globular star formation stripping dynamics data reduction analysis">
+
 [My curriculum vitae](assets/doc/Eric_Giunchi_cv.pdf)\
 First author publication [list](https://ui.adsabs.harvard.edu/user/libraries/Uz6wbuCZToGRY0qz7KLOJQ)\
 Co-author publication [list](https://ui.adsabs.harvard.edu/user/libraries/ao3CZvuTRGOcxitKb5eikg)\
