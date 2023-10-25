@@ -30,7 +30,7 @@ For my Master thesis I developed a good background about **globular clusters for
 # Something about my research
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
 
-<img src="assets/img/hst_gasp_16_9_lables.jpg" alt="hst_gasp" width="700"/>
+<img src="assets/img/HST_jelly_vertical.jpg" alt="hst_gasp" width="700"/>
 
 _Credits to Dr. Marco Gullieuszik_
 
