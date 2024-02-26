@@ -9,10 +9,12 @@ My ORCID: [0000-0002-3818-1746](https://orcid.org/0000-0002-3818-1746)\
 My [Master thesis](https://amslaurea.unibo.it/21272/)
 
 # About me
-Hello there, I am Eric Giunchi, a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy.
+Hello there, I am Eric Giunchi, a Postdoctoral researcher at the University of Bologna since early 2024.
+Previously, I worked as a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy, during the period going from late 2020 to late 2023.
 
 # SCIENTIFIC SKILLS and BACKGROUND
-My scientific work is mainly oriented to the study of **star formation**, focusing on very young stellar clumps observed in different environments. I developed a good knowledge about state-of-art observations and models regarding the properties and driving mechanisms of the **star-forming process** and **clump formation**, including turbulence, stellar feedback, dynamical and stellar evolution.
+I am currently working on the formation of **globular clusters**, focusing on the evolution of progenitor candidates at redshift 1.5-2 by means of state-of-art N-body simulations.
+During my PhD, my scientific work was mainly oriented to the study of **star formation**, focusing on very young stellar clumps observed in different environments. I developed a good knowledge about state-of-art observations and models regarding the properties and driving mechanisms of the **star-forming process** and **clump formation**, including turbulence, stellar feedback, dynamical and stellar evolution.
 Theferore I developed expertise about the tracers and proxies of the properties of star-forming clumps, including **mass, luminosity** and size **distribution functions**; **luminosity, mass** and **SFR-size relations**; **morphological evolution**.
 Strong focus on the variation of the properties of star-forming clumps across cosmic time and different environments (main-sequence galaxies, starburst galaxies, mergings, galaxies in clusters, intergalactic environments like spiral arms and inter-arm regions). In particular I studied the properties of stellar clumps formed from gas stripped from cluster galaxies undergoing strong **ram-pressure stripping**, surrounded by the hot, high-pressure intracluster medium.
 
