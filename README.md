@@ -10,7 +10,7 @@ My [Master thesis](https://amslaurea.unibo.it/21272/)
 
 # About me
 Hello there, I am Eric Giunchi, a Postdoctoral researcher at the University of Bologna since early 2024.
-Previously, I worked as a PhD student in Astronomy at INAF-Osservatorio Astronomico di Padova, in Padua, Italy, during the period going from late 2020 to late 2023.
+Previously, I got my PhD in Astronomy at the University of Padova, in collaboration with INAF-Osservatorio Astronomico di Padova, Italy, during the period going from late 2020 to early 2024.
 
 # SCIENTIFIC SKILLS and BACKGROUND
 I am currently working on the formation of **globular clusters**, focusing on the evolution of progenitor candidates at redshift 1.5-2 by means of state-of-art N-body simulations.
