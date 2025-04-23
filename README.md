@@ -13,7 +13,7 @@ Hello there, I am Eric Giunchi, a Postdoctoral researcher at the University of B
 Previously, I got my PhD in Astronomy at the University of Padova, in collaboration with INAF-Osservatorio Astronomico di Padova, Italy, during the period going from late 2020 to early 2024.
 
 # SCIENTIFIC SKILLS and BACKGROUND
-I am currently working on the formation of **globular clusters**, focusing on the evolution of progenitor candidates at redshift 1.5-2 by means of state-of-art N-body simulations.
+I am currently working on the formation of **globular clusters**, focusing on the evolution of progenitor candidates at redshift 1.5-2 by means of state-of-art N-body simulations. In particular, I studied the evolution of the stellar clumps observed around the **Sparkler galaxy** (z=1.4), studying how dynamical friction and tidal shocks from the stellar disk can change their mass and size (and also, possibly, distrupt them).
 During my PhD, my scientific work was mainly oriented to the study of **star formation**, focusing on very young stellar clumps observed in different environments. I developed a good knowledge about state-of-art observations and models regarding the properties and driving mechanisms of the **star-forming process** and **clump formation**, including turbulence, stellar feedback, dynamical and stellar evolution.
 Theferore I developed expertise about the tracers and proxies of the properties of star-forming clumps, including **mass, luminosity** and size **distribution functions**; **luminosity, mass** and **SFR-size relations**; **morphological evolution**.
 Strong focus on the variation of the properties of star-forming clumps across cosmic time and different environments (main-sequence galaxies, starburst galaxies, mergings, galaxies in clusters, intergalactic environments like spiral arms and inter-arm regions). In particular I studied the properties of stellar clumps formed from gas stripped from cluster galaxies undergoing strong **ram-pressure stripping**, surrounded by the hot, high-pressure intracluster medium.
@@ -30,11 +30,17 @@ For my Master thesis I developed a good background about **globular clusters for
 
 
 # Something about my research
+I focused on the evolution of the old stellar clumps observed around the Sparkler galaxy, a lensed galaxy at z=1.4. In order to do that, we ran a set of simulations by means of the N-body code **Arepo** to study the effects of dynamical friction and tidal shocks on the stellar clumps. In particular, we studied different morphological configurations for the galaxy and the cluster system, the presence of a stellar disk and whether these processes shape the observed clusters into local globular clusters.
+
+<video src="assets/video/motions.mp4" alt="tidal_shocks" width="700"/>
+
+_Simulation of the tidal shocks onto a stellar clump._
+
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
 
 <img src="assets/img/HST_jelly_vertical.png" alt="hst_gasp" width="700"/>
 
-_Credits to Dr. Marco Gullieuszik_
+_Credits to Dr. Marco Gullieuszik._
 
 In our works we study the global properties of the star-forming clumps observed in these peculiar objects, comparing clumps observed in the disk and the tails of these galaxies with each other and with clumps observed in main-sequence, isolated galaxies. The comparison has been carried on by looking at their distribution functions (mass, luminosity and size), the luminosity-size relation and the morphology. Our results suggest that ram pressure does not influence the turbulent cascade that drives gas collapse and star formation, but can locally enhance the star-formation rate surface density of the clumps.
 
