@@ -33,7 +33,8 @@ For my Master thesis I developed a good background about **globular clusters for
 I focused on the evolution of the old stellar clumps observed around the Sparkler galaxy, a lensed galaxy at z=1.4. In order to do that, we ran a set of simulations by means of the N-body code **Arepo** to study the effects of dynamical friction and tidal shocks on the stellar clumps. In particular, we studied different morphological configurations for the galaxy and the cluster system, the presence of a stellar disk and whether these processes shape the observed clusters into local globular clusters.
 
 <video width="700" height="350" autoplay muted>
-  <source src="assets/video/motions.mp4" type="video">
+  <source src="assets/video/motions.mp4" type="video/mp4">
+Your browser does not support the video tag.
 </video>
 
 _Simulation of the tidal shocks onto a stellar clump._
