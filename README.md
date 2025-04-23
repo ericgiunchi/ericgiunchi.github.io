@@ -42,7 +42,7 @@ _Simulation of the tidal shocks onto a stellar clump._
 
 During my PhD program I studied a set of _HST/WFC3_ images of six galaxies undergoing strong **ram-pressure stripping** inside galaxy clusters, showing long tails of stellar clumps, of which we have studied the star-forming and morphological properties. The comparison of these clumps with those observed in "normal" galaxies can help unveiling which physical mechanisms drive the formation of new stars.
 
-<img src="assets/img/HST_jelly_vertical.png" alt="hst_gasp" width="550" height="1100"/>
+<img src="assets/img/HST_jelly_vertical.png" alt="hst_gasp" width="550"/>
 
 _Credits to Dr. Marco Gullieuszik._
 
