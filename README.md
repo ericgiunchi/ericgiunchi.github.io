@@ -59,4 +59,4 @@ As a part of my Bachelor degree, I worked as a guide for public visits at the Te
 I also attended the _Notte dei Ricercatori_ ("Night of Researchers") 2023, giving a talk to a public of adults and high school students about how JWST is improving our science at high redshift. I also participate to a sieries of speed date, describing in a few minutes the daily life of an astronomer.
 
 
-<img src="assets/img/1200px-INAF_logo.svg.png" alt="INAF_logo" height="100"/> <img src="assets/img/GASP_logo.png" alt="GASP_logo" height="100"/> <img src="assets/img/erc-logo.png" alt="erc" height="100"/> <img src="assets/img/Padova_logo.png" alt="Padova_logo" height="100"/>
+<img src="assets/img/unibo_logo.png" alt="unibo_logo" height="100"/>
