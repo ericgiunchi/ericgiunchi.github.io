@@ -34,6 +34,7 @@ I focused on the evolution of the old stellar clumps observed around the Sparkle
 
 <video width="700" autoplay muted>
   <source src="assets/video/motions.mp4" type="video">
+</video>
 
 _Simulation of the tidal shocks onto a stellar clump._
 
